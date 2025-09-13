@@ -1,4 +1,5 @@
 # rescate
+Ignacio Jiménez-Díaz
 
 Reto de Algoritmos: Rescate de Datos Críticos en una Infraestructura Comprometida
 
