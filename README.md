@@ -1,6 +1,7 @@
 # rescate
 
 Reto de Algoritmos: Rescate de Datos Críticos en una Infraestructura Comprometida
+
 https://github.com/Ignacio-Jimenez-Diaz/rescate.git
 
 Presentación:
